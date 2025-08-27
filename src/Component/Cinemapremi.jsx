@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import VanillaTilt from "vanilla-tilt";
 import bgImg from "./photos/Cinema2.jpeg";
@@ -14,19 +14,19 @@ import Img9 from "./photos/Cinema8.jpeg";
 import Img10 from "./photos/Cinema9.jpeg";
 import Img11 from "./photos/Cinema10.jpeg";
 
-import Img13 from "./photos/Cinema12.jpg";
-import Img14 from "./photos/Cinema13.jpg";
-import Img15 from "./photos/Cinema14.jpg";
-import Img16 from "./photos/Cinema15.jpg";
-import Img17 from "./photos/Cinema16.jpg";
-import Img18 from "./photos/Cinema17.jpg";
-import Img19 from "./photos/Cinema18.jpg";
-import Img20 from "./photos/Cinema19.jpg";
-import Img21 from "./photos/Cinema20.jpg";
-import Img22 from "./photos/Cinema21.jpg";
-import Img23 from "./photos/Cinema22.jpg";
-import Img24 from "./photos/Cinema23.jpg";
-import Img25 from "./photos/Cinema24.jpg";
+import Img13 from "./photos/cinema12.jpg";
+import Img14 from "./photos/cinema13.jpg";
+import Img15 from "./photos/cinema14.jpg";
+import Img16 from "./photos/cinema15.jpg";
+import Img17 from "./photos/cinema16.jpg";
+import Img18 from "./photos/cinema17.jpg";
+import Img19 from "./photos/cinema18.jpg";
+import Img20 from "./photos/cinema19.jpg";
+import Img21 from "./photos/cinema20.jpg";
+import Img22 from "./photos/cinema21.jpg";
+import Img23 from "./photos/cinema22.jpg";
+import Img24 from "./photos/cinema23.jpg";
+import Img25 from "./photos/cinema24.jpg";
 
 
 import ProductCart from "./ProductCard";
